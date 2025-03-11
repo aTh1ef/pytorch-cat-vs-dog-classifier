@@ -75,6 +75,7 @@ This cell will:
 * Allow you to test more images by simply re-running the cell
 
 After running the second cell and uploading an image, you'll see results like this:
+
 ![image](https://github.com/user-attachments/assets/d51ecf1b-8f65-47de-9fe5-c644fe78563f)
 ![image](https://github.com/user-attachments/assets/ba90e6a6-aa1f-449f-8854-aeda2486af6c)
 
