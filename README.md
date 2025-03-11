@@ -19,15 +19,15 @@ After training for 5 epochs, the model achieved:
 - **Training loss**: 0.072
 - **Validation loss**: 0.053
 
-![Training Results]![graph](https://github.com/user-attachments/assets/8acdacaf-5b4f-4228-a8e2-82c618b2f935)
+![graph](https://github.com/user-attachments/assets/8acdacaf-5b4f-4228-a8e2-82c618b2f935)
 *Training and validation accuracy/loss curves showing model convergence*
 
 ## 📷 Prediction Examples
 
 The model successfully classifies new cat and dog images with high confidence:
 
-![Prediction Results](![belowgraph](https://github.com/user-attachments/assets/ca21443e-1447-4938-8c47-156f9d23d39b)
-)
+![belowgraph](https://github.com/user-attachments/assets/ca21443e-1447-4938-8c47-156f9d23d39b)
+
 *Sample predictions showing the model correctly identifying cat and dog images*
 
 ## 🚀 How to Run This Project
@@ -74,10 +74,8 @@ This cell will:
 * Allow you to test more images by simply re-running the cell
 
 After running the second cell and uploading an image, you'll see results like this:
-
-![Model Prediction Example](![image](https://github.com/user-attachments/assets/d51ecf1b-8f65-47de-9fe5-c644fe78563f))
-![Model Prediction Example 2](![image](https://github.com/user-attachments/assets/ba90e6a6-aa1f-449f-8854-aeda2486af6c))
-)
+![image](https://github.com/user-attachments/assets/d51ecf1b-8f65-47de-9fe5-c644fe78563f)
+![image](https://github.com/user-attachments/assets/ba90e6a6-aa1f-449f-8854-aeda2486af6c)
 
 *The model correctly identifies this image as a cat with 99.63% confidence*
 
