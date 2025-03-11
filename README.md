@@ -19,8 +19,7 @@ After training for 5 epochs, the model achieved:
 - **Training loss**: 0.072
 - **Validation loss**: 0.053
 
-![Training Results](![graph](https://github.com/user-attachments/assets/8acdacaf-5b4f-4228-a8e2-82c618b2f935)
-)
+![Training Results]![graph](https://github.com/user-attachments/assets/8acdacaf-5b4f-4228-a8e2-82c618b2f935)
 *Training and validation accuracy/loss curves showing model convergence*
 
 ## 📷 Prediction Examples
