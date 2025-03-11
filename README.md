@@ -39,7 +39,7 @@ The model successfully classifies new cat and dog images with high confidence:
 - No local installations required!
 
 ### Steps to run the project 
-1. Navigate to the cat_vs_dog_classifier.ipynb file in this repo
+1. Navigate to the `cat_vs_dog_classifier.ipynb` file in this repo
 2. Click on the `.ipynb` file
 3. Click on the "Open in Colab" badge at the top of the notebook
    - Or manually open [Google Colab](https://colab.research.google.com/) and upload the notebook file
