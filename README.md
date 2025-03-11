@@ -79,7 +79,7 @@ After running the second cell and uploading an image, you'll see results like th
 ![image](https://github.com/user-attachments/assets/d51ecf1b-8f65-47de-9fe5-c644fe78563f)
 ![image](https://github.com/user-attachments/assets/ba90e6a6-aa1f-449f-8854-aeda2486af6c)
 
-*The model correctly identifies this image as a cat with 99.63% confidence*
+*The model correctly identifies the images as a cat with 99.63% confidence and a dog with 100.0% confidence.*
 
 You can upload multiple images at once to see how the model performs on different cat and dog photos.
 
