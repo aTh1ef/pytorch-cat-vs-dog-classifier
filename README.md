@@ -115,7 +115,7 @@ This beginner-friendly project demonstrates:
 - Model evaluation and visualization techniques
 - Practical deployment for inference
 
-## ⭐ Star this project if you found it useful!
+## ⭐ Star this project if you found it useful :)
 
 ## 📄 License
 
