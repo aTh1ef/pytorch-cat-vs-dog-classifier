@@ -98,7 +98,7 @@ You can upload multiple images at once to see how the model performs on differen
   - 80% training data (~20,000 images)
   - 20% validation data (~5,000 images)
 
-### Architecture
+### Architecture -
 - **Base Model**: ResNet18 pre-trained on ImageNet
 - **Modifications**: Custom classifier head for binary classification
 - **Input Size**: 224x224 RGB images
