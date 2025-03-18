@@ -25,7 +25,7 @@ After training for 5 epochs, the model achieved:
 
 ## 📷 Prediction Examples
 
-The model successfully classifies new cat and dog images with high confidence:
+The model successfully classifies new cat and dog images with high confidence-
 
 ![belowgraph](https://github.com/user-attachments/assets/ca21443e-1447-4938-8c47-156f9d23d39b)
 
