@@ -5,7 +5,7 @@ A beginner-friendly deep learning project that uses PyTorch and transfer learnin
 ## 📋 Project Overview
 
 This project implements a convolutional neural network (CNN) that can distinguish between images of dogs and cats with high accuracy.
-It uses the following
+It uses the following:
 
 - **PyTorch**: A popular deep learning framework
 - **Transfer Learning**: Leverages pre-trained ResNet18 architecture 
