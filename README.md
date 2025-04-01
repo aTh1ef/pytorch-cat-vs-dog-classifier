@@ -1,4 +1,4 @@
-# Dog vs Cat Image Classifier using PyTorch and ResNet18 
+# Dog vs Cat Image Classifier using PyTorch and  ResNet18
 
 A beginner-friendly deep learning project that uses PyTorch and transfer learning with ResNet18 to classify images as either dogs or cats. This project demonstrates fundamental concepts in computer vision and deep learning while providing practical hands-on experience with a real-world dataset..
 
